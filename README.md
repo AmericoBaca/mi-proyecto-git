@@ -1,2 +1,2 @@
-# Mi primer proyexto en GIT
-Autor: Anerico Baca
+# Mi primer proyecto en GIT
+Autor: Americo Baca
